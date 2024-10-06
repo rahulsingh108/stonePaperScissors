@@ -1,0 +1,112 @@
+.img{
+    height: 94px;
+    /* background-color: black; */
+    background:transparent;
+    border-radius: 52px;
+}
+
+.button{
+    background-color: white;
+    border: 0;
+    /* border: 2px solid black;*/
+    margin-top: 40px;
+} 
+
+body{
+    background-color:white;
+   color: rgb(38, 37, 37);
+   font-family: Arial;
+   font-size: 20px;
+}
+.result-move-img{
+    height: 60px;
+    /* background-color: black; */
+    background:transparent;
+    border-radius: 52px;
+
+}
+.paragraph{
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
+  
+}
+.js-moves{
+
+    display: flex;
+    align-items: center;
+  
+}
+.js-result{
+    margin-left: 10px;
+}
+.js-scores{
+    margin-left: 10px;
+}
+.resetbtn{
+    margin-top: 20px;
+    margin-left: 90px;
+    height: 30px;
+    font-size: 15px;
+    color: black;
+    background-color: rgb(252, 217, 171);
+    border-radius: 15px;
+    color: rgb(14, 14, 13);
+}
+
+/* new file for auto game */
+.img{
+    height: 94px;
+    /* background-color: black; */
+    background:transparent;
+    border-radius: 52px;
+}
+
+.button{
+    background-color: white;
+    border: 0;
+    /* border: 2px solid black;*/
+    margin-top: 40px;
+} 
+
+body{
+    background-color:white;
+   color: rgb(38, 37, 37);
+   font-family: Arial;
+   font-size: 20px;
+}
+.result-move-img{
+    height: 60px;
+    /* background-color: black; */
+    background:transparent;
+    border-radius: 52px;
+
+}
+.paragraph{
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
+  
+}
+.js-moves{
+
+    display: flex;
+    align-items: center;
+  
+}
+.js-result{
+    margin-left: 10px;
+}
+.js-scores{
+    margin-left: 10px;
+}
+.resetbtn,.autoplaybtn{
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 30px;
+    font-size: 15px;
+    color: black;
+    background-color: rgb(252, 217, 171);
+    border-radius: 15px;
+    color: rgb(14, 14, 13);
+}
